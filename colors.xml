@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="card_bg">#1C1C1E</color>
+    <color name="card_bg_secondary">#2C2C2E</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8E8E93</color>
+    <color name="switch_thumb">#FFFFFF</color>
+    <color name="switch_track">#3A3A3C</color>
+    <color name="accent_blue">#0A84FF</color>
+    <color name="divider">#38383A</color>
+</resources>

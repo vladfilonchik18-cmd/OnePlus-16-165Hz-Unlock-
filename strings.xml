@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">165Hz Ultra</string>
+    <string name="title">165 Hz ultra refresh rate</string>
+    <string name="master_title">165 Hz ultra refresh rate (beta)</string>
+    <string name="master_desc">Boosts supported apps to a 165 Hz refresh rate. May cause lag, screen flicker, higher power use, or device heating.</string>
+    <string name="supported_apps">Supported apps</string>
+    <string name="cooler_title">Built-in Cooler</string>
+    <string name="cooler_desc">Intelligent cooling system. Reduces temperature during high refresh rate usage.</string>
+    <string name="cooler_active">Cooling active</string>
+    <string name="cooler_inactive">Cooling off</string>
+</resources>
